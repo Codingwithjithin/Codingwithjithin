@@ -31,10 +31,10 @@ Driven by curiosity, consistency, and the thrill of cracking tough problems — 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-## 📊 LeetCode Stats
+## 📊 Coding Profiles
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=CodingWithJithin&theme=light)
-![LeetCode Streak](https://leetcode-streak-stats.herokuapp.com/?user=CodingWithJithin&theme=light)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodingWithJithin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithingeorg3/)
 
 ---
 
@@ -47,6 +47,7 @@ Driven by curiosity, consistency, and the thrill of cracking tough problems — 
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithingeorg3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/conqueror._____?igsh=MTNmcnFmZHU1eHc2dQ==)
 
 ---
 
