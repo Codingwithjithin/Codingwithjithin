@@ -41,11 +41,9 @@ Driven by curiosity, consistency, and the thrill of cracking tough problems — 
 ![snake](https://raw.githubusercontent.com/Codingwithjithin/Jithin_george/output/github-contribution-grid-snake.svg)
 
 ---
-
-## 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codingwithjithin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Jithin's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codingwithjithin&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Codingwithjithin&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Jithin's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Codingwithjithin&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" height="200" />
 </p>
 
 ---
