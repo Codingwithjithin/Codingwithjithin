@@ -21,6 +21,11 @@ Exploring the ever-evolving world of technology with a strong focus on AI & Mach
 Driven by curiosity, consistency, and the thrill of cracking tough problems — especially when a solution finally clicks after hours of debugging 😄
 ---
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+
+---
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
