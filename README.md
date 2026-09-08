@@ -22,8 +22,6 @@ Exploring the ever-evolving world of technology with a strong focus on AI & Mach
 
 ⚔️ Passionate about competitive programming and logical challenges.
 
-💡 Curious about scalable software systems and clean, efficient code. 
-
 Driven by curiosity, consistency, and the thrill of cracking tough problems — especially when a solution finally clicks after hours of debugging 😄
 
 ---
